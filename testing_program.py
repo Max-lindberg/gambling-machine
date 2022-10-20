@@ -1,7 +1,7 @@
 import random
 from time import sleep
 MAX_LINES = 3
-MAX_BET = 100
+MAX_BET = 300
 MIN_BET = 1
 
 ROWS = 3
